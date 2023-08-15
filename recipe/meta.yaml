@@ -1,5 +1,5 @@
 {% set name = "django-fernet-fields-v2" %}
-{% set version = "0.8" %}
+{% set version = "0.9" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/django_fernet_fields_v2-{{ version }}.tar.gz
-  sha256: ef6e208abfec7b22de9c2d7502a6bd23202cafc70c306316a8fbba5324293911
+  sha256: 998476968be1ded3eabb4fa51b27ceddcae295c8227c304f117a3348ece8cbda
 
 build:
   number: 0
